@@ -1,0 +1,6 @@
+{
+  "name": "ZemiFix CMMS",
+  "description": "Enterprise maintenance management system for facility maintenance and contractor job-to-cash workflows with dual-control governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
